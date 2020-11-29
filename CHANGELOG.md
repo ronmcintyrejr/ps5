@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.2.0](https://www.github.com/ronmcintyrejr/ps5/compare/v3.1.0...v3.2.0) (2020-11-29)
+
+
+### Features
+
+* **proxy:** socks5 support ([#933](https://www.github.com/ronmcintyrejr/ps5/issues/933)) ([364c6c2](https://www.github.com/ronmcintyrejr/ps5/commit/364c6c25dfe9dcbeb29cb20cb46e9e8dcc2fe86b))
+* **store:** add some italian stores with ps5 links ([#976](https://www.github.com/ronmcintyrejr/ps5/issues/976)) ([f663579](https://www.github.com/ronmcintyrejr/ps5/commit/f663579f3d744a5270878975407ad30b31ee0c0a))
+
+
+### Bug Fixes
+
+* related products being picked up on scan ([#954](https://www.github.com/ronmcintyrejr/ps5/issues/954)) ([db18157](https://www.github.com/ronmcintyrejr/ps5/commit/db18157a490b9c9672c32de3372bff0b472a48f3))
+* **canadacomputers:** add `inStock` selector, use english links ([#889](https://www.github.com/ronmcintyrejr/ps5/issues/889)) ([06214eb](https://www.github.com/ronmcintyrejr/ps5/commit/06214eb4a8a5c2d8a180e8dcf846f828d5cce2ed))
+* **memoryexpress:** add backorder to `outOfStock` selector ([#890](https://www.github.com/ronmcintyrejr/ps5/issues/890)) ([67605a6](https://www.github.com/ronmcintyrejr/ps5/commit/67605a6e280af35f210c536bc03571a84ea1a7e9))
+* **newegg:** typo in 5800x url([#903](https://www.github.com/ronmcintyrejr/ps5/issues/903)) ([a99eecb](https://www.github.com/ronmcintyrejr/ps5/commit/a99eecb4613bc136e65afe4e5e8788316beae39e))
+
 ## [3.1.0](https://www.github.com/jef/streetmerchant/compare/v3.0.0...v3.1.0) (2020-11-22)
 
 
